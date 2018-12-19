@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: #f0e8c5;
+  background-image:url("image.jpg");
+  background-repeat:no-repeat;
+  background-position: top;
+  background-size: 100%;
+  
+}
+
+div {
+  margin-top: 15px;
+}
+
+.image-section {
+  display: flex;
+  justify-content: center;
+  background-size: 100%;
+}
+
+.section-style {
+  text-align: left;
+  margin-right: 50px;
+  margin-left: 50px;  
+}
+
+
+.logo-section {
+  display: flex;
+  justify-content: left;
+}
+
+.logo-style {
+  margin-right: 25px;
+  margin-left: 25px;
+  background-color: white;
+}
+
